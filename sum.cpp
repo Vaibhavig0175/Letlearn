@@ -7,6 +7,7 @@ int main(){
 
     int c = a+b;
     cout<<"addition is : "<<c<<endl;
+    cout<<"addition done";
 
     return 0;
 }
